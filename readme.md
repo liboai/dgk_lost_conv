@@ -89,15 +89,7 @@ MIT
 
 QQ-1
 
-![](data/qqun.png)
-
-QQ-2
-
-![](data/qq2.jpeg)
-
-wx：
-
-![](http://fate2.oss-cn-shanghai.aliyuncs.com/weixin2.jpeg)
+![](TensorFlow%20Caffe%20Tars学习群聊二维码.png)
 
 
 
